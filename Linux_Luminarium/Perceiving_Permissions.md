@@ -18,7 +18,7 @@ pwn.college{wSEdY-LnevQ_fuUN-756BW1fWYo.dFTM2QDLzcTN0czW}
 pwn.college{cofs8mOEUbBLDROXZ3rA8ROsdSQ.dFzNyUDLzcTN0czW}
 
 **Procedure:**    
-In this challenge I had to just change the group owership of /flag to hacker and then read it.
+In this challenge I had to just change the group owership of `/flag` to hacker and then read it.
 
 **Code:**      
 ```bash

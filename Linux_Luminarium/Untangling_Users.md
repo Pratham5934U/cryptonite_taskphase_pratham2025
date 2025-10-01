@@ -37,7 +37,7 @@ pwn.college{wvhX4zYMsKEU8-Wgyhb-LwHNgUs.dZTN0UDLzcTN0czW}
 pwn.college{YvfwBZJPdXIOL1a2vuEWaD808ZY.ddTN0UDLzcTN0czW}
 
 **Procedure:**     
-Here I first cracked the password using John the Ripper from the leak of /etc/shadow (in /challenge/shadow-leak) after cracking the password I switch to zardus and then ran /challenge/run
+Here I first cracked the password using John the Ripper from the leak of `/etc/shadow (in /challenge/shadow-leak)` after cracking the password I switch to zardus and then ran `/challenge/run`
 to get the flag.
 
 **Code:**        
