@@ -1,4 +1,6 @@
-# 1. The PATH Variable
+# Pondering Path
+
+## 1. The PATH Variable
 
 **Flag:**   
 pwn.college{k323Uia1QoHJqUHim2OGCJqTAEv.dZzNwUDLzcTN0czW}
@@ -18,7 +20,7 @@ The flag is still there! I might as well give it to you!
 pwn.college{k323Uia1QoHJqUHim2OGCJqTAEv.dZzNwUDLzcTN0czW}
 ```
 
-# 2. Setting PATH
+## 2. Setting PATH
 
 **Flag:**   
 pwn.college{E75b31C41bvQ90hhBuETtYBrVa1.dVzNyUDLzcTN0czW}
@@ -37,7 +39,7 @@ Congratulations! You properly set the flag and 'win' has launched!
 pwn.college{E75b31C41bvQ90hhBuETtYBrVa1.dVzNyUDLzcTN0czW}
 ```
 
-# 3. Finding Commands
+## 3. Finding Commands
 
 **Flag:**
 pwn.college{Ab3aHm5k19gdzu4l_KqNyih85ws.QX3MTM3EDLzcTN0czW}
@@ -53,7 +55,7 @@ hacker@path~finding-commands:~$ cat /challenge/paths/5141/flag
 pwn.college{Ab3aHm5k19gdzu4l_KqNyih85ws.QX3MTM3EDLzcTN0czW}
 ```
 
-# 4. Adding Commands 
+## 4. Adding Commands 
 
 **Flag:**   
 pwn.college{Ib2vNryw0PA2tn-NfFgYJnWQDQ0.dZzNyUDLzcTN0czW}
@@ -143,7 +145,7 @@ Invoking 'win'....
 pwn.college{Ib2vNryw0PA2tn-NfFgYJnWQDQ0.dZzNyUDLzcTN0czW}
 ```
 
-# 5. Hijacking Commands
+## 5. Hijacking Commands
 
 **Flag:**   
 pwn.college{0dYbYC6pnvuE0dM7OH5XDjge7fl.ddzNyUDLzcTN0czW}

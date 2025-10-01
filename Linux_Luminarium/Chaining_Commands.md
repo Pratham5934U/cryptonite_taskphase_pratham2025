@@ -1,4 +1,6 @@
-# 1. Chaining with Semicolons
+# Chaining Commands
+
+## 1. Chaining with Semicolons
 
 **Flag:**    
 pwn.college{osNB4N9lWjFGtuXpBJZcbpTLRfJ.dVTN4QDLzcTN0czW}
@@ -13,7 +15,7 @@ Yes! You chained /challenge/pwn and /challenge/college! Here is your flag:
 pwn.college{osNB4N9lWjFGtuXpBJZcbpTLRfJ.dVTN4QDLzcTN0czW}
 ```
 
-# 2. Building on Success
+## 2. Building on Success
 
 **Flag:**
 pwn.college{MJVX-U62PvLyYxMwsm7kBsRhFsy.QXyQzM4EDLzcTN0czW}
@@ -31,7 +33,7 @@ hacker@chaining~building-on-success:~$ /challenge/first-success && /challenge/se
 Nice chaining! Flag: pwn.college{MJVX-U62PvLyYxMwsm7kBsRhFsy.QXyQzM4EDLzcTN0czW}
 ```
 
-# 3. Handling Failure
+## 3. Handling Failure
 
 **Flag:**
 pwn.college{00rSbqYmqsqemBz0JKXMXsEYZUZ.QXzQzM4EDLzcTN0czW}
@@ -45,7 +47,7 @@ hacker@chaining~handling-failure:~$ /challenge/first-failure || /challenge/secon
 Nice chaining! Flag: pwn.college{00rSbqYmqsqemBz0JKXMXsEYZUZ.QXzQzM4EDLzcTN0czW}
 ```
 
-# 4. Your First Shell Script
+## 4. Your First Shell Script
 
 **Flag:**    
 pwn.college{wd-RSiCT6jCcHQ6AN2eM8v99fge.dFzN4QDLzcTN0czW}
@@ -61,7 +63,7 @@ Great job, you've written your first shell script! Here is the flag:
 pwn.college{wd-RSiCT6jCcHQ6AN2eM8v99fge.dFzN4QDLzcTN0czW}
 ```
 
-# 5. Redirecting Script Output
+## 5. Redirecting Script Output
 
 **Flag:**    
 pwn.college{YgAddJzJwz1RfLil4v9Nrx2inU8.dhTM5QDLzcTN0czW}
@@ -77,7 +79,7 @@ Correct! Here is your flag:
 pwn.college{YgAddJzJwz1RfLil4v9Nrx2inU8.dhTM5QDLzcTN0czW}
 ```
 
-# 6. Executable Shell Scripts
+## 6. Executable Shell Scripts
 
 **Flag:**    
 pwn.college{Am7DzFA7GPKu4WL0VpIaQW8Mkxl.dRzNyUDLzcTN0czW}
@@ -95,7 +97,7 @@ Congratulations on your shell script execution! Your flag:
 pwn.college{Am7DzFA7GPKu4WL0VpIaQW8Mkxl.dRzNyUDLzcTN0czW}
 ```
 
-# 7. Understanding Shebangs 
+## 7. Understanding Shebangs 
 
 **Flag:** 
 pwn.college{EDSaJ7SSXBNeG-yytADm-IIfinz.QX5MzM4EDLzcTN0czW}
@@ -119,7 +121,7 @@ Perfect! Your flag:
 Flag: pwn.college{EDSaJ7SSXBNeG-yytADm-IIfinz.QX5MzM4EDLzcTN0czW}
 ```
 
-# 8. Scripting wwith Arguments
+## 8. Scripting wwith Arguments
 
 **Flag:** 
 pwn.college{AORx5TKW2uxPbq-2fmc-036T7c0.QX1MzM4EDLzcTN0czW}
@@ -207,7 +209,7 @@ Here's your flag:
 pwn.college{AORx5TKW2uxPbq-2fmc-036T7c0.QX1MzM4EDLzcTN0czW}
 ```
 
-# 9. Scripting with Conditionals
+## 9. Scripting with Conditionals
 
 **Flag:** 
 pwn.college{EBaPmw0uFpTzMBJgzq7j2gN9a8n.QX2MzM4EDLzcTN0czW}
@@ -224,7 +226,7 @@ Here's your flag:
 pwn.college{EBaPmw0uFpTzMBJgzq7j2gN9a8n.QX2MzM4EDLzcTN0czW}
 ```
 
-# 10. Scripting with Default Cases 
+## 10. Scripting with Default Cases 
 
 **Flag:** 
 pwn.college{IiY9lZzdcNUDum6IgEFCZ9F_W9Z.QX3MzM4EDLzcTN0czW}
@@ -241,7 +243,7 @@ Here's your flag:
 pwn.college{IiY9lZzdcNUDum6IgEFCZ9F_W9Z.QX3MzM4EDLzcTN0czW}
 ```
 
-# 11. Scripting with Multiple Conditions
+## 11. Scripting with Multiple Conditions
 
 **Flag:** 
 pwn.college{0gSM5v93KREOpN5t29sxr_TB8XF.QX4MzM4EDLzcTN0czW}
@@ -263,7 +265,7 @@ Here's your flag:
 pwn.college{0gSM5v93KREOpN5t29sxr_TB8XF.QX4MzM4EDLzcTN0czW}
 ```
 
-# 12. Reading Shell Scripts 
+## 12. Reading Shell Scripts 
 
 **Flag:** 
 pwn.college{Agjl0_DuWYNhHdIv4dwg8Zh0CN9.QXyADO4EDLzcTN0czW}

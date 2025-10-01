@@ -1,4 +1,6 @@
-# 1. Printing Variables
+# Shell Variables 
+
+## 1. Printing Variables
 
 **Flag:**         
 pwn.college{0s4VsuvbJB45omlwk-poriFOtq6.ddTN1QDLzcTN0czW}
@@ -12,7 +14,7 @@ hacker@variables~printing-variables:~$ echo $FLAG
 pwn.college{0s4VsuvbJB45omlwk-poriFOtq6.ddTN1QDLzcTN0czW}
 ```
 
-# 2. Setting Variables
+## 2. Setting Variables
 
 **Flag:**    
 pwn.college{cNpseWN4tTPfVAOJd3RlaEbwLrn.dlTN1QDLzcTN0czW}
@@ -28,7 +30,7 @@ You've set the PWN variable properly! As promised, here is the flag:
 pwn.college{cNpseWN4tTPfVAOJd3RlaEbwLrn.dlTN1QDLzcTN0czW}
 ```
 
-# 3. Multi-word Variables
+## 3. Multi-word Variables
 
 **Flag:**     
 pwn.college{Agu8AWxGntFjOvCp9dMBf7oxCih.dBjN1QDLzcTN0czW}
@@ -43,7 +45,7 @@ You've set the PWN variable properly! As promised, here is the flag:
 pwn.college{Agu8AWxGntFjOvCp9dMBf7oxCih.dBjN1QDLzcTN0czW}
 ```
 
-# 4. Exporting Variables 
+## 4. Exporting Variables 
 
 **Flag:**   
 pwn.college{wEhfwbN9FLR_0w8olV-lvOC5XfV.dJjN1QDLzcTN0czW}
@@ -69,7 +71,7 @@ You've set the PWN variable to the proper value!
 You've set the COLLEGE variable to the proper value!
 ```
 
-# 5. Printing Exported Variables
+## 5. Printing Exported Variables
 
 ***Flag:**    
 pwn.college{g8tMjtyNtnfC7EickZ0n1rAR5qm.dhTN1QDLzcTN0czW}
@@ -109,7 +111,7 @@ VSCODE_IPC_HOOK_CLI=/tmp/vscode-ipc-d11d3220-14e4-4556-830e-e3afe156aa45.sock
 _=/run/workspace/bin/env
 ```
 
-# 6. Storing Command Output
+## 6. Storing Command Output
 
 **Flag:**     
 pwn.college{IYnJmBoOkMi7lCc9JRhX8uSijwL.dVzN0UDLzcTN0czW}
@@ -126,7 +128,7 @@ hacker@variables~storing-command-output:~$ echo $PWN
 pwn.college{IYnJmBoOkMi7lCc9JRhX8uSijwL.dVzN0UDLzcTN0czW}
 ```
 
-# 7. Reading Input 
+## 7. Reading Input 
 
 **Flag:**    
 pwn.college{A4Zm3Fu88q5PKuXy4UTTLEVjeku.dhzN1QDLzcTN0czW}
@@ -142,7 +144,7 @@ You've set the PWN variable properly! As promised, here is the flag:
 pwn.college{A4Zm3Fu88q5PKuXy4UTTLEVjeku.dhzN1QDLzcTN0czW}
 ```
 
-# 8. Reading Files 
+## 8. Reading Files 
 
 **Flag:**    
 pwn.college{cZT3oP15qGxkZ1bXyqp7j-qa91R.dBjM4QDLzcTN0czW}

@@ -1,4 +1,6 @@
-# 1. The Root
+# Pondering Paths
+
+## 1. The Root
 
 **Flag:**  
 pwn.college{YskNYpLaAzmi1p5BR-CEiHXKBHF.dhzN5QDLzcTN0czW}
@@ -9,7 +11,7 @@ need to use "/" symbol again after typing the exact and the correct path we pres
 type the absolute path of the program pwn in the terminal to get the flag. The absolute path was /pwn .
 
 
-# 2. Program and absolute paths
+## 2. Program and absolute paths
 
 **Flag:**
 pwn.college{Evb1fhTKrRrV6fZIlmD7ZDBGCqk.dVDN1QDLzcTN0czW}
@@ -18,7 +20,7 @@ pwn.college{Evb1fhTKrRrV6fZIlmD7ZDBGCqk.dVDN1QDLzcTN0czW}
 In this challenge the I had to execute the program named 'run' which is in the directory 'challenge' which was in turn in the root directory so my absolute path was /challenge/run .
 On typing this absolute path and after pressing enter I got the flag.
 
-# 3. Position thy self
+## 3. Position thy self
 
 **Flag:**
 pwn.college{8BiogCA4DND03vYoxftO8RNiwCD.dZDN1QDLzcTN0czW}
@@ -47,7 +49,7 @@ pwn.college{8BiogCA4DND03vYoxftO8RNiwCD.dZDN1QDLzcTN0czW}
 hacker@paths~position-thy-self:/home$ 
 ```
 
-# 4. Position elsewhere
+## 4. Position elsewhere
 
 **Flag**
 pwn.college{EaUc5PdvPsY-4EZFy68M7oL0NbJ.ddDN1QDLzcTN0czW}
@@ -67,7 +69,7 @@ pwn.college{EaUc5PdvPsY-4EZFy68M7oL0NbJ.ddDN1QDLzcTN0czW}
 hacker@paths~position-elsewhere:/home$ 
 ```
 
-# 5. Position yet elsewhere
+## 5. Position yet elsewhere
 
 **Flag**
 pwn.college{QFw6dbIXu-VcTb8eX1pV3hSjW2_.dhDN1QDLzcTN0czW}
@@ -97,7 +99,7 @@ pwn.college{QFw6dbIXu-VcTb8eX1pV3hSjW2_.dhDN1QDLzcTN0czW}
 
 
 
-# 6. Implicit relative paths, from /
+## 6. Implicit relative paths, from /
 
 **Flag**
 pwn.college{UcArH4H40TVR4n0tEVbUsptpJaJ.dlDN1QDLzcTN0czW}
@@ -119,7 +121,7 @@ pwn.college{UcArH4H40TVR4n0tEVbUsptpJaJ.dlDN1QDLzcTN0czW}
 hacker@paths~implicit-relative-paths-from-:/$ 
 ```
 
-# 7. Explicit relative paths, from /
+## 7. Explicit relative paths, from /
 
 **Flag**
 pwn.college{8R_JKEZy5B4oX7Dapsw8_JzfIdi.dBTN1QDLzcTN0czW}
@@ -134,7 +136,7 @@ Here is your flag:
 pwn.college{8R_JKEZy5B4oX7Dapsw8_JzfIdi.dBTN1QDLzcTN0czW}
 ```
 
-# 8. Implicit relative path
+## 8. Implicit relative path
 
 **Flag**
 pwn.college{0KVWhfIpbvCE8jGs1-2W301Okrj.dFTN1QDLzcTN0czW}
@@ -151,7 +153,7 @@ Here is your flag:
 pwn.college{0KVWhfIpbvCE8jGs1-2W301Okrj.dFTN1QDLzcTN0czW}
 ```
 
-# 9. Home sweet home
+## 9. Home sweet home
 
 **Flag**
 pwn.college{87ehKGMg_Rinjv-YdEChtrAdkoR.dNzM4QDLzcTN0czW}

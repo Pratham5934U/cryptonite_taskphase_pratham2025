@@ -1,4 +1,6 @@
-# 1. Becoming root with su
+# Untangling Users
+
+## 1. Becoming root with su
 
 **Flag:**      
 pwn.college{ErPjiMrHesjXWkhKJLX2-D4Wdwt.dVTN0UDLzcTN0czW}
@@ -14,7 +16,7 @@ root@users~becoming-root-with-su:/home/hacker# cat /flag
 pwn.college{ErPjiMrHesjXWkhKJLX2-D4Wdwt.dVTN0UDLzcTN0czW}
 ```
 
-# 2.  Other users with su
+## 2.  Other users with su
 
 **Flag:**      
 pwn.college{wvhX4zYMsKEU8-Wgyhb-LwHNgUs.dZTN0UDLzcTN0czW}
@@ -31,7 +33,7 @@ Congratulations, you have become Zardus! Here is your flag:
 pwn.college{wvhX4zYMsKEU8-Wgyhb-LwHNgUs.dZTN0UDLzcTN0czW}
 ```
 
-# 3. Cracking passwords
+## 3. Cracking passwords
 
 **Flag:**      
 pwn.college{YvfwBZJPdXIOL1a2vuEWaD808ZY.ddTN0UDLzcTN0czW}
@@ -56,7 +58,7 @@ Congratulations, you have become Zardus! Here is your flag:
 pwn.college{YvfwBZJPdXIOL1a2vuEWaD808ZY.ddTN0UDLzcTN0czW}
 ```
 
-# 4. Using sudo
+## 4. Using sudo
 
 **Flag:**      
 pwn.college{wk7j7rmo1kSiBCh0QH9TS8e-thS.dhTN0UDLzcTN0czW}

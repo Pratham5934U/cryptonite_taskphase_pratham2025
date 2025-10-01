@@ -1,4 +1,6 @@
-# 1. cat: not the pet, but the command
+# Comprehending Commands
+
+## 1. cat: not the pet, but the command
 
 **Flag:**     
 pwn.college{E4LKRg0P1sE3A5BZGyvV4YOMhOJ.dFzN1QDLzcTN0czW}
@@ -12,7 +14,7 @@ hacker@commands~cat-not-the-pet-but-the-command:~$ cat flag
 pwn.college{E4LKRg0P1sE3A5BZGyvV4YOMhOJ.dFzN1QDLzcTN0czW}
 ```
 
-# 2. catting absolute path
+## 2. catting absolute path
 
 **Flag**    
 pwn.college{Qdc3mxrwVLgfva4QDUVgK0D4xQT.dlTM5QDLzcTN0czW}
@@ -26,7 +28,7 @@ hacker@commands~catting-absolute-paths:~$ cat /flag
 pwn.college{Qdc3mxrwVLgfva4QDUVgK0D4xQT.dlTM5QDLzcTN0czW}
 ```
 
-# 3. more catting practice
+## 3. more catting practice
 
 **Flag**       
 pwn.college{IP2KgAOUIRsc6aqw8BEFW_T0cw3.dBjM5QDLzcTN0czW}
@@ -44,7 +46,7 @@ hacker@commands~more-catting-practice:~$ cat /usr/share/calendar/flag
 pwn.college{IP2KgAOUIRsc6aqw8BEFW_T0cw3.dBjM5QDLzcTN0czW}
 ```
 
-# 4. grepping for a needle in a haystack
+## 4. grepping for a needle in a haystack
 
 **Flag**     
 pwn.college{oypET6Dsr1PJ_oKDPoeZ13dN0a6.ddTM4QDLzcTN0czW}
@@ -58,7 +60,7 @@ hacker@commands~grepping-for-a-needle-in-a-haystack:~$ grep pwn.college /challen
 pwn.college{oypET6Dsr1PJ_oKDPoeZ13dN0a6.ddTM4QDLzcTN0czW}
 ```
 
-# 5. comaparing files
+## 5. comaparing files
 
 **Flag**
 pwn.college{IljaIa3Vk33-bY1OTvn5ofRufme.QXzAzM4EDLzcTN0czW}
@@ -73,7 +75,7 @@ hacker@commands~comparing-files:~$ diff /challenge/decoys_only.txt /challenge/de
 > pwn.college{IljaIa3Vk33-bY1OTvn5ofRufme.QXzAzM4EDLzcTN0czW}
 ```
 
-# 6. listing files
+## 6. listing files
 
 **Flag**     
 pwn.college{EzTAXD_xTvnII7SLa_Ec08uhdMM.dhjM4QDLzcTN0czW}
@@ -94,7 +96,7 @@ hacker@commands~listing-files:~$ /flag
 bash: /flag: Permission denied      
 ```
 
-# 7. touching files
+## 7. touching files
 
 **Flag**      
 pwn.college{E6klr13UGhsQcQWmNnGXRzmUjNS.dBzM4QDLzcTN0czW}
@@ -113,7 +115,7 @@ Success! Here is your flag:
 pwn.college{E6klr13UGhsQcQWmNnGXRzmUjNS.dBzM4QDLzcTN0czW}
 ```
 
-# 8. removing files
+## 8. removing files
 
 **Flag**         
 pwn.college{M7C7ekGy8wFIyzDWQs9VvPqb2sx.dZTOwUDLzcTN0czW}
@@ -135,7 +137,7 @@ Excellent removal. Here is your reward:
 pwn.college{M7C7ekGy8wFIyzDWQs9VvPqb2sx.dZTOwUDLzcTN0czW}
 ```
 
-# 9. moving files
+## 9. moving files
 
 **Flag** 
 pwn.college{Uoo7cO4UDSixn4V8jYUgl_8exDv.QX5ETM3EDLzcTN0czW}
@@ -153,7 +155,7 @@ Congrats! You successfully moved the flag to /tmp/hack-the-planet! Here it is:
 pwn.college{Uoo7cO4UDSixn4V8jYUgl_8exDv.QX5ETM3EDLzcTN0czW}
 ```
 
-# 10. hidden files
+## 10. hidden files
 
 **Flag**     
 pwn.college{AhEe4zGZvo1Z_HRsWHLTiOd6yZ_.dBTN4QDLzcTN0czW}
@@ -174,7 +176,7 @@ hacker@commands~hidden-files:/$ cat .flag-24604320419474
 pwn.college{AhEe4zGZvo1Z_HRsWHLTiOd6yZ_.dBTN4QDLzcTN0czW}
 ```
 
-# 11. AN Epic Filesystem Quest
+## 11. AN Epic Filesystem Quest
 
 **Flag**      
 pwn.college{gwmoMPtH9ZPhw_sNVYLWjNFIedH.dljM4QDLzcTN0czW}
@@ -302,7 +304,7 @@ CONGRATULATIONS! Your perserverence has paid off, and you have found the flag!
 It is: pwn.college{gwmoMPtH9ZPhw_sNVYLWjNFIedH.dljM4QDLzcTN0czW}
 ```
 
-# 12. making directories
+## 12. making directories
 
 **Flag**
 pwn.college{krLrsjNDLCHYFpHUS96nA9epr63.dFzM4QDLzcTN0czW}
@@ -326,7 +328,7 @@ Success! Here is your flag:
 pwn.college{krLrsjNDLCHYFpHUS96nA9epr63.dFzM4QDLzcTN0czW}
 ```
 
-# 13. Finding files
+## 13. Finding files
 
 **Flag**        
 pwn.college{Y2DotLqEdoUSSlfVBJmuylV9EOz.dJzM4QDLzcTN0czW}
@@ -479,7 +481,7 @@ hacker@commands~finding-files:/usr/local/lib/python3.8/dist-packages/pwnlib/flag
 pwn.college{Y2DotLqEdoUSSlfVBJmuylV9EOz.dJzM4QDLzcTN0czW}          
 ```
 
-# 14. linking files
+## 14. linking files
 
 **Flag**      
 pwn.college{EzDshxIRwlyqmvqYRF6zvVVAZ8W.dlTM1UDLzcTN0czW}

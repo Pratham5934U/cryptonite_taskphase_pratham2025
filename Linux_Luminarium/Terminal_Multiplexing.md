@@ -1,4 +1,6 @@
-# 1. Launching Screen
+# Terminal Multiplexing 
+
+## 1. Launching Screen
 
 **Flag:** 
 pwn.college{kPruuf49mvNAR_jULvQMcBzoUHh.QX1gjM4EDLzcTN0czW}
@@ -13,7 +15,7 @@ Here's your flag:
 pwn.college{kPruuf49mvNAR_jULvQMcBzoUHh.QX1gjM4EDLzcTN0czW}
 ```
 
-# 2. Detaching and Attaching
+## 2. Detaching and Attaching
 
 **Flag:** 
 pwn.college{U2S3H1Cq9Cx5uEWtlfFDJZPeLqR.QX2gjM4EDLzcTN0czW}
@@ -44,7 +46,7 @@ hacker@terminal-multiplexing~detaching-and-attaching:~$ echo Yes! Flag is: pwn.c
 Yes! Flag is: pwn.college{U2S3H1Cq9Cx5uEWtlfFDJZPeLqR.QX2gjM4EDLzcTN0czW}
 ```
 
-# 3. Findng Sessions
+## 3. Findng Sessions
 
 **Flag:** 
 pwn.college{Q2ZYu7bQglg0mYi-Igrid1EybfS.QX3gjM4EDLzcTN0czW}
@@ -73,7 +75,7 @@ hacker@terminal-multiplexing~finding-sessions:~$  echo pwn.college{Q2ZYu7bQglg0m
 pwn.college{Q2ZYu7bQglg0mYi-Igrid1EybfS.QX3gjM4EDLzcTN0czW}
 ```
 
-# 4. Launching Screen
+## 4. Launching Screen
 
 **Flag:** 
 pwn.college{cYLiBYMD8kDbLhy2LHcWCBzo_vd.QX4gjM4EDLzcTN0czW}
@@ -90,7 +92,7 @@ Excellent work! You found window 0!
 Here is your flag: pwn.college{cYLiBYMD8kDbLhy2LHcWCBzo_vd.QX4gjM4EDLzcTN0czW}
 ```
 
-# 5. Detaching and Attaching(tmux)
+## 5. Detaching and Attaching(tmux)
 
 **Flag:** 
 Here `tmux` was introduced i.e. terminal multiplier which is screen's younger, more modern cousin. It does all the same things but with some different key bindings. The biggest difference? Instead of Ctrl-A, tmux uses Ctrl-B as its command prefix. I had to just launch it once then detach from it run `/challenge/run` and then reattach to it to get the flag.
@@ -119,7 +121,7 @@ hacker@terminal-multiplexing~detaching-and-attaching-tmux:~$  echo Congratulatio
 Congratulations, here is your flag: pwn.college{0R34C4Tq9K0geklE58HtMFVlMkC.QX5gjM4EDLzcTN0czW}
 ```
 
-# 5. Launching Screen
+## 5. Launching Screen
 
 **Flag:** 
 pwn.college{QWmdYhE4o7rqbebv4SEnOlP5FOx.QXwkjM4EDLzcTN0czW}

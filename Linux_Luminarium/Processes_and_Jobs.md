@@ -1,4 +1,6 @@
-# 1. Listing Processes
+# Processes and Jobs
+
+## 1. Listing Processes
 
 **Flag:**    
 pwn.college{sAgPepqi2J4fGyJHClq4N4PmGqD.dhzM4QDLzcTN0czW}
@@ -27,7 +29,7 @@ pwn.college{sAgPepqi2J4fGyJHClq4N4PmGqD.dhzM4QDLzcTN0czW}
 Now I will sleep for a while (so that you could find me with 'ps').
 ```
 
-# 2. killing process
+## 2. killing process
 
 **Flag:**    
 pwn.college{UAK-dW6BJpzzrejFggOeHotj5ev.dJDN4QDLzcTN0czW}
@@ -48,7 +50,7 @@ Great job! Here is your payment:
 pwn.college{UAK-dW6BJpzzrejFggOeHotj5ev.dJDN4QDLzcTN0czW}
 ```
 
-# 3. Interrrupting Process 
+## 3. Interrrupting Process 
 
 **Flag:**     
 pwn.college{sjyBJ9WI2c2gNwUYWBqfPm5Nply.dNDN4QDLzcTN0czW}
@@ -66,7 +68,7 @@ Good job! You have used Ctrl-C to interrupt this process! Here is your flag:
 pwn.college{sjyBJ9WI2c2gNwUYWBqfPm5Nply.dNDN4QDLzcTN0czW}
 ```
 
-# 4. Killing Misbehaving Processes
+## 4. Killing Misbehaving Processes
 
 **Flag:**
 pwn.college{o9cPZfR-bTfJTlTU-829DST6wHU.QX0MzM4EDLzcTN0czW}
@@ -266,7 +268,7 @@ hacker@processes~killing-misbehaving-processes:~$
 
 ```
 
-# 5. Suspending Processes
+## 5. Suspending Processes
 
 **Flag:**    
 pwn.college{s75Z7QOroF20Umfw_4C1GYR15xE.dVDN4QDLzcTN0czW}
@@ -304,7 +306,7 @@ Yay, I found another version of me! Here is the flag:
 pwn.college{s75Z7QOroF20Umfw_4C1GYR15xE.dVDN4QDLzcTN0czW}
 ```
 
-# 6. Resuming Processes
+## 6. Resuming Processes
 
 **Flag:**    
 pwn.college{8zoVnCroHpEpdp0B-ivVGV0V_wm.dZDN4QDLzcTN0czW}
@@ -328,7 +330,7 @@ Don't forget to press Enter to quit me!
 Goodbye!
 ```
 
-# 7. Backgrounding Processes
+## 7. Backgrounding Processes
 
 **Flag:**      
 pwn.college{sHMcBvGJDYlYMx_sYz0Bzi7Hmw2.ddDN4QDLzcTN0czW}
@@ -377,7 +379,7 @@ pwn.college{sHMcBvGJDYlYMx_sYz0Bzi7Hmw2.ddDN4QDLzcTN0czW}
 hacker@processes~backgrounding-processes:~$ 
 ```
 
-# 8. Foregrounding Processes
+## 8. Foregrounding Processes
 
 **Flag:**     
 pwn.college{Aao3M4-lJvJZZfZXWdRLB_Ero65.dhDN4QDLzcTN0czW}
@@ -410,7 +412,7 @@ YES! Great job! I'm now running in the foreground. Hit Enter for your flag!
 pwn.college{Aao3M4-lJvJZZfZXWdRLB_Ero65.dhDN4QDLzcTN0czW}
 ```
 
-# 9. Starting Background Processes
+## 9. Starting Background Processes
 
 **Flag:**       
 pwn.college{siFR9tTn4opoNJpztCMmvzvMPKl.dlDN4QDLzcTN0czW}
@@ -432,7 +434,7 @@ Anyways! Here is your flag!
 pwn.college{siFR9tTn4opoNJpztCMmvzvMPKl.dlDN4QDLzcTN0czW}
 ```
 
-# 10. Process exit codes
+## 10. Process exit codes
 
 **Flag:**     
 pwn.college{Q0E1YYvqc2zJhbNj_M3bEO2awNC.dljN4UDLzcTN0czW}

@@ -1,4 +1,6 @@
-# 1. Learning from documentation
+# Digesting Documentation 
+
+## 1. Learning from documentation
 
 **Flag:**    
 pwn.college{MyfvzKKb6HCumPGW9fyj9R-m9s2.dRjM5QDLzcTN0czW}   
@@ -13,7 +15,7 @@ Correct argument! Here is your flag:
 pwn.college{MyfvzKKb6HCumPGW9fyj9R-m9s2.dRjM5QDLzcTN0czW}
 ```
 
-# 2. Learning Complex Usage
+## 2. Learning Complex Usage
 
  **Flag:**          
 pwn.college{EZUEWoxgeUqjOAsIidiFk9UD_cS.dVjM5QDLzcTN0czW}
@@ -28,7 +30,7 @@ Correct argument! Here is the /flag file:
 pwn.college{EZUEWoxgeUqjOAsIidiFk9UD_cS.dVjM5QDLzcTN0czW}
 ```
 
-# 3. Reading Manuals5
+## 3. Reading Manuals5
 
 **Flag:**
 pwn.college{EEh87YDlJgMvz3DFdvbYhf10b-X.dRTM4QDLzcTN0czW}
@@ -75,7 +77,7 @@ hacker@man~reading-manuals:~$ /challenge/challenge --hlgvzd 873
 Correct usage! Your flag: pwn.college{EEh87YDlJgMvz3DFdvbYhf10b-X.dRTM4QDLzcTN0czW}
 ```
 
-# 4. Searching Manuals 
+## 4. Searching Manuals 
 
 **Flag**   
 Correct usage! Your flag: pwn.college{AaekJ0fAbOk_-mJ7Ptv53WrVLsE.dVTM4QDLzcTN0czW}
@@ -95,7 +97,7 @@ Initializing...
 Correct usage! Your flag: pwn.college{AaekJ0fAbOk_-mJ7Ptv53WrVLsE.dVTM4QDLzcTN0czW}
 ```
 
-# 5. Searching for Manuals 
+## 5. Searching for Manuals 
 
 **Flag:**   
 pwn.college{IKJvYWL91K_yKRiE5I-20fmIciy.dZTM4QDLzcTN0czW}
@@ -170,7 +172,7 @@ hacker@man~searching-for-manuals:~$ /challenge/challenge --vyifmc 915
 Correct usage! Your flag: pwn.college{IKJvYWL91K_yKRiE5I-20fmIciy.dZTM4QDLzcTN0czW}
 ```
 
-# 6. Helpful Programs
+## 6. Helpful Programs
 
 **Flag:**   
 pwn.college{AUb--AvfOIce79BYvTG3ALy7_1T.ddjM4QDLzcTN0czW}
@@ -197,7 +199,7 @@ hacker@man~helpful-programs:~$ /challenge/challenge -g 793
 Correct usage! Your flag: pwn.college{AUb--AvfOIce79BYvTG3ALy7_1T.ddjM4QDLzcTN0czW}
 ```
 
-# 7. Help for Builtins
+## 7. Help for Builtins
 
 **Flag:**    
 pwn.college{0KDsSRR2D79ap-fwfiXS68bkKh6.dRTM5QDLzcTN0czW}

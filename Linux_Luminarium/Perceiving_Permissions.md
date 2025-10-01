@@ -1,4 +1,6 @@
-# 1.  Changing File ownership
+# Perceiving Permissions
+
+## 1. Changing File ownership
 
 **Flag:**   
 pwn.college{wSEdY-LnevQ_fuUN-756BW1fWYo.dFTM2QDLzcTN0czW}
@@ -12,7 +14,7 @@ hacker@permissions~changing-file-ownership:~$ cat /flag
 pwn.college{wSEdY-LnevQ_fuUN-756BW1fWYo.dFTM2QDLzcTN0czW}
 ```
 
-# 2. Groups and Files
+## 2. Groups and Files
 
 **Flag:**     
 pwn.college{cofs8mOEUbBLDROXZ3rA8ROsdSQ.dFzNyUDLzcTN0czW}
@@ -43,7 +45,7 @@ hacker@permissions~groups-and-files:~$ cat /flag
 pwn.college{cofs8mOEUbBLDROXZ3rA8ROsdSQ.dFzNyUDLzcTN0czW}
 ```
 
-# 3. Fun with Group Names
+## 3. Fun with Group Names
 
 **Flag:**     
 pwn.college{AdDS0tY0lnt5M7SCHZWWVATAQu-.dJzNyUDLzcTN0czW}
@@ -60,7 +62,7 @@ hacker@permissions~fun-with-groups-names:~$ cat /flag
 pwn.college{AdDS0tY0lnt5M7SCHZWWVATAQu-.dJzNyUDLzcTN0czW}
 ```
 
-# 4. Changing Permissions 
+## 4. Changing Permissions 
 
 **Flag:**     
 pwn.college{Exp6ZO-PKyD0i4FJv6ws3cvucd1.dNzNyUDLzcTN0czW}
@@ -75,7 +77,7 @@ hacker@permissions~changing-permissions:~$ cat /flag
 pwn.college{Exp6ZO-PKyD0i4FJv6ws3cvucd1.dNzNyUDLzcTN0czW}
 ```
 
-# 5. Executable File
+## 5. Executable File
 
 **Flag:**     
 pwn.college{sm9AClOvRafDP7ketZvDEfqjUDR.dJTM2QDLzcTN0czW}
@@ -91,7 +93,7 @@ Successful execution! Here is your flag:
 pwn.college{sm9AClOvRafDP7ketZvDEfqjUDR.dJTM2QDLzcTN0czW}
 ```
 
-# 6. Permission Tweaking Practice
+## 6. Permission Tweaking Practice
 
 **Flag:**     
 pwn.college{0ciSLPTEHi776sU6wVxywWOky09.dBTM2QDLzcTN0czW}
@@ -321,7 +323,7 @@ hacker@permissions~permission-tweaking-practice:~$ cat /flag
 pwn.college{0ciSLPTEHi776sU6wVxywWOky09.dBTM2QDLzcTN0czW}
 ```
 
-# 7. Permission Setting Practice
+## 7. Permission Setting Practice
 
 **Flag:**     
 pwn.college{M3S_fFaxhO652D5o-DxSxHW3DXI.dNTM5QDLzcTN0czW}
@@ -551,7 +553,7 @@ hacker@permissions~permissions-setting-practice:~$ cat /flag
 pwn.college{M3S_fFaxhO652D5o-DxSxHW3DXI.dNTM5QDLzcTN0czW}
 ```
 
-# 8. The SUID Bit
+## 8. The SUID Bit
 
 **Flag:**     
 pwn.college{sPxh4Jgc_sIlY3C92u32qYy13-o.dNTM2QDLzcTN0czW}

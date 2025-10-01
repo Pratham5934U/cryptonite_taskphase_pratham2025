@@ -1,4 +1,6 @@
-# 1. Translating charactors 
+# Data Manipulation 
+
+## 1. Translating charactors 
 
 **Flag:**
 pwn.college{QGFI-767Ppya1hvb2TxYOPTkt2u.QXzETM3EDLzcTN0czW}
@@ -17,7 +19,7 @@ yOUR CASE-SWAPPED FLAG:
 pwn.college{QGFI-767Ppya1hvb2TxYOPTkt2u.QXzETM3EDLzcTN0czW}
 ```
 
-# 2 Deleting characters
+## 2 Deleting characters
 
 **Flag:**
 pwn.college{42BUNfaNqcNt-xfnGINZqn6f82v.QX0ETM3EDLzcTN0czW}
@@ -32,7 +34,7 @@ Your character-stuffed flag:
 pwn.college{42BUNfaNqcNt-xfnGINZqn6f82v.QX0ETM3EDLzcTN0czW}
 ```
 
-# 3 Deleting newlines
+## 3 Deleting newlines
 
 **Flag:**
 pwn.college{EKB4aVNiR7xJw4s6TVfUGTnAArM.QX1ETM3EDLzcTN0czW}
@@ -46,7 +48,7 @@ hacker@data~deleting-newlines:~$ /challenge/run | tr -d "\n"
 Your line-split flag: pwn.college{EKB4aVNiR7xJw4s6TVfUGTnAArM.QX1ETM3EDLzcTN0czW}
 ```
 
-# 4 Extracting the first lines with head
+## 4 Extracting the first lines with head
 
 **Flag:**
 pwn.college{4HOAHKSv9XuT-bm-Hyz8SDnbyNg.QX2ETM3EDLzcTN0czW}
@@ -61,7 +63,7 @@ Congratulations, you piped the right codes!
 pwn.college{4HOAHKSv9XuT-bm-Hyz8SDnbyNg.QX2ETM3EDLzcTN0czW}
 ```
 
-# 5. Extracting specific section of text
+## 5. Extracting specific section of text
 
 **Flag:**
 pwn.college{UYENQcHblG6GzLeub_f2s24Cdfe.QX3ETM3EDLzcTN0czW}
@@ -137,7 +139,7 @@ hacker@data~extracting-specific-sections-of-text:~$ /challenge/run | cut -d " " 
 pwn.college{UYENQcHblG6GzLeub_f2s24Cdfe.QX3ETM3EDLzcTN0czW}
 ```
 
-# 6. Sorting data
+## 6. Sorting data
 
 **Flag:**
 pwn.college{wq8Imq_hg3GMVLNelXJmn-0o76V.QXwQzM4EDLzcTN0czW}

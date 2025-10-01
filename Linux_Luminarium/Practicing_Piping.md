@@ -1,4 +1,6 @@
-# 1. Redirecting Output
+# Practicing Piping 
+
+## 1. Redirecting Output
 
 **Flag:**    
 pwn.college{0spdNvHg94S3tc_p85cJmgn-o9_.dRjN1QDLzcTN0czW}
@@ -13,7 +15,7 @@ Correct! You successfully redirected 'PWN' to the file 'COLLEGE'! Here is your
 flag:
 pwn.college{0spdNvHg94S3tc_p85cJmgn-o9_.dRjN1QDLzcTN0czW}
 ```
-# 2. Redirecting more Output 
+## 2. Redirecting more Output 
 
 **Flag:**   
 pwn.college{ojMPUinmJ2ibQ5x-mTuMwnKP86S.dVjN1QDLzcTN0czW}
@@ -43,7 +45,7 @@ hacker@piping~redirecting-more-output:~$ cat myflag
 [FLAG] pwn.college{ojMPUinmJ2ibQ5x-mTuMwnKP86S.dVjN1QDLzcTN0czW}
 ```
 
-# 3. Appending Output 
+## 3. Appending Output 
 
 **Flag:**   
 pwn.college{cVOiFqCUGM9aW3uUWPtgUMXSuOO.ddDM5QDLzcTN0czW}
@@ -123,7 +125,7 @@ mode!
 ```
 
 
-# 4.  Redirecting errors
+## 4.  Redirecting errors
 
 **Flag:**   
  pwn.college{wylSSEz2TctHuPQdP28TcIkvmmi.ddjN1QDLzcTN0czW}
@@ -141,7 +143,7 @@ hacker@piping~redirecting-errors:~$ cat myflag
 ```
 
 
-# 5.  Redirecting Input
+## 5.  Redirecting Input
 
 **Flag:**   
 pwn.college{oxr3DTgHvwpbjisuhASHdf6uEmN.dBzN1QDLzcTN0czW}
@@ -161,7 +163,7 @@ pwn.college{oxr3DTgHvwpbjisuhASHdf6uEmN.dBzN1QDLzcTN0czW}
 ```
 
 
-# 6. Grepping stored results 
+## 6. Grepping stored results 
 
 **Flag:**   
 pwn.college{QZ8XVHMOPtLthpg1zLgFQRH33jk.dhTM4QDLzcTN0czW}
@@ -196,8 +198,7 @@ hacker@piping~grepping-stored-results:~$  grep -i "pwn.college" /tmp/data.txt
 pwn.college{QZ8XVHMOPtLthpg1zLgFQRH33jk.dhTM4QDLzcTN0czW}
 ```
 
-
-# 7.  Grepping Live output
+## 7.  Grepping Live output
 
 **Flag:**   
 pwn.college{YnQRyCGBWUkhweG0iRwCrlXV2RK.dlTM4QDLzcTN0czW}
@@ -230,7 +231,7 @@ pwn.college{YnQRyCGBWUkhweG0iRwCrlXV2RK.dlTM4QDLzcTN0czW}
 ```
 
 
-# 8.  Grepping Errors
+## 8.  Grepping Errors
 
 **Flag:**   
 pwn.college{Mr00H0Oc42t2eKw2ZRAi0Ajgelg.dVDM5QDLzcTN0czW}
@@ -263,7 +264,7 @@ pwn.college{Mr00H0Oc42t2eKw2ZRAi0Ajgelg.dVDM5QDLzcTN0czW}
 ```
 
 
-# 9. Filtering with grep -v
+## 9. Filtering with grep -v
 
 **Flag:**
 pwn.college{Uh8Fcw39i_IWVX9oIJb9MCi7i3q.QX4ETM3EDLzcTN0czW}
@@ -277,7 +278,7 @@ hacker@piping~filtering-with-grep-v:~$ /challenge/run | grep -v "DECOY"
 pwn.college{Uh8Fcw39i_IWVX9oIJb9MCi7i3q.QX4ETM3EDLzcTN0czW}
 ```
 
-# 10. Duplicating piped data with tee
+## 10. Duplicating piped data with tee
 
 **Flag:**   
 pwn.college{A_KkXe0PPI-guGNs4e7UdYPWaWh.dFjM5QDLzcTN0czW}
@@ -303,7 +304,7 @@ Great job! Here is your flag:
 pwn.college{A_KkXe0PPI-guGNs4e7UdYPWaWh.dFjM5QDLzcTN0czW}
 ```
 
-# 11. Process substitution for input 
+## 11. Process substitution for input 
 
 **Flag:**
 pwn.college{4DNRikJzhSrnAN2cDT6lztQjh-N.QX2AzM4EDLzcTN0czW}
@@ -317,7 +318,7 @@ hacker@piping~process-substitution-for-input:~$ diff <(/challenge/print_decoys) 
 > pwn.college{4DNRikJzhSrnAN2cDT6lztQjh-N.QX2AzM4EDLzcTN0czW}
 ```
 
-# 12.  
+## 12.  
 
 **Flag:**   
 pwn.college{UR1U6ZgkXxRukcbFWIjSmE_C-_3.dBDO0UDLzcTN0czW}
@@ -362,7 +363,7 @@ is your flag:
 pwn.college{UR1U6ZgkXxRukcbFWIjSmE_C-_3.dBDO0UDLzcTN0czW}
 ```
 
-# 13.  Split-piping stderr and stdout
+## 13.  Split-piping stderr and stdout
 
 **Flag:**   
 pwn.college{YkqWq_DzKxHgVyRaBqXGhtQH2QN.dFDNwYDLzcTN0czW}
@@ -386,7 +387,7 @@ struggle with! Here is your flag:
 pwn.college{YkqWq_DzKxHgVyRaBqXGhtQH2QN.dFDNwYDLzcTN0czW}
 ```
 
-# 14. Named pipes
+## 14. Named pipes
 
 **Flag:** 
 pwn.college{oNwWmFA9soYTuRibsNrBJpcHUDh.QXzMzM4EDLzcTN0czW}
